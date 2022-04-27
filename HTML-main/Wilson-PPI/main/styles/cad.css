@@ -1,0 +1,7 @@
+body{
+    border-style: solid;
+    border-spacing: 5px 10px 7px;
+    border-color: darkmagenta;
+    border-width: thin;
+    max-width: 300px;
+}
