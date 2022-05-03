@@ -10,9 +10,10 @@ width: 300px;
 }
 
 body{
+    top: 50px;
     padding: 50px;
     position: relative;
-    border-style:groove;
+    border-style:inset;
     border-spacing: 50px 10px ;
     border-color: darkmagenta;
     border-width: thin;
@@ -28,7 +29,8 @@ input {
 }
 
 
-#registrar{
+input #registrar{
+    top:50px;
     position: absolute;
     right:px;
 }
