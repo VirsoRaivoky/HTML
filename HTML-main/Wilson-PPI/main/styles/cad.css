@@ -1,7 +1,34 @@
+html {
+    background-color: #faebd7;
+}
+
+div{
+display: flex;
+justify-content: center;
+height: 300px;
+width: 300px;
+}
+
 body{
-    border-style: solid;
-    border-spacing: 5px 10px 7px;
+    padding: 50px;
+    position: relative;
+    border-style:groove;
+    border-spacing: 50px 10px ;
     border-color: darkmagenta;
     border-width: thin;
     max-width: 300px;
+    max-height: 1000px;
+    margin:auto;
+}
+input {
+    background-repeat: repeat-x;
+    border: 0px solid;
+    height: 20PX;
+    width: 205px;
+}
+
+
+#registrar{
+    position: absolute;
+    right:px;
 }
