@@ -26,11 +26,8 @@ input {
     border: 0px solid;
     height: 20PX;
     width: 205px;
+    margin-left: auto;
 }
 
 
-input #registrar{
-    top:50px;
-    position: absolute;
-    right:px;
-}
+
